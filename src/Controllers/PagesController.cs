@@ -6,7 +6,6 @@ using System.Web.Mvc;
 
 namespace Lexa.Controllers
 {
-    [RequireHttps]
     public class PagesController : Controller
     {
         public ActionResult BadRequest()

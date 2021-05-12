@@ -2,7 +2,6 @@
 
 namespace Lexa.Controllers
 {
-    [RequireHttps]
     public class ChartController : Controller
     {
         // GET: Chart

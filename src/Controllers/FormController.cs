@@ -6,7 +6,6 @@ using System.Web.Mvc;
 
 namespace Lexa.Controllers
 {
-    [RequireHttps]
     public class FormsController : Controller
     {
         public ActionResult Advanced()

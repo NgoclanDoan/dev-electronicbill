@@ -2,7 +2,6 @@
 
 namespace Lexa.Controllers
 {
-    [RequireHttps]
     public class UIController : Controller
     {
         public ActionResult Alerts()

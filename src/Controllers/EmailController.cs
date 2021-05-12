@@ -6,7 +6,6 @@ using System.Web.Mvc;
 
 namespace Lexa.Controllers
 {
-    [RequireHttps]
     public class EmailController : Controller
     {
         public ActionResult Compose()

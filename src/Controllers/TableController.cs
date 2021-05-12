@@ -6,7 +6,6 @@ using System.Web.Mvc;
 
 namespace Lexa.Controllers
 {
-    [RequireHttps]
     public class TableController : Controller
     {
         public ActionResult Basic()
