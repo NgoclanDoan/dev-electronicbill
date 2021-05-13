@@ -24,6 +24,7 @@ namespace Lexa
                       "~/Content/metismenu.min.css",
                       "~/Content/icons.css",
                       "~/Content/style.css"));
+            BundleTable.EnableOptimizations = true;
         }
     }
 }

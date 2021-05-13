@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Lexa.Controllers
+namespace electronicbill.Controllers
 {
     public class EmailController : Controller
     {
